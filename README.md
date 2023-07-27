@@ -4,6 +4,3 @@
 - 🔭 I’m looking for an Internship or a new job opportunity
 - 📫 How to reach me azizjlassi498@gmail.com
 
-Jlassi-Mohamed-Aziz/Jlassi-Mohamed-Aziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
